@@ -1,4 +1,4 @@
-# JavaOOPS
+# Java Practice
 # Step for me : 
 # Git clone> change folder > make changes > add changes > commit changes > push changes
 
