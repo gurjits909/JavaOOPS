@@ -4,7 +4,7 @@
 
 Here i keep the Code i did to learn Oops 
 
-As Project is maven java project:
+Project is maven java project:
 
 Steps To load in you system: 
  Download the practice folder in your system
