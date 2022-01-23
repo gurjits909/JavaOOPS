@@ -3,7 +3,8 @@
 # Git clone> change folder > make changes > add changes > commit changes > push changes
 
 Here i keep the Code i did to learn Oops 
-Project is maven java project:
+
+As Project is maven java project:
 
 Steps To load in you system: 
  Download the practice folder in your system
